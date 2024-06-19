@@ -1,0 +1,1 @@
+is a mode of [[Heat Transfer]] in which [[heat]] is transferred by molecular interaction through bodies in contact. 
